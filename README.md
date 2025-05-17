@@ -60,7 +60,7 @@ This system models real-world services such as Uber and BlaBlaCar, simulating re
 **University of Pisa**  
 **Course**: Databases  
 **Year**: 2018  
-**Authors**: Giovanni Dipace, Federico Giordano
+**Authors**: Giovanni Dipace
 
 ---
 
