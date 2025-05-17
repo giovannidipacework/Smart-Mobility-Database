@@ -51,7 +51,6 @@ This system models real-world services such as Uber and BlaBlaCar, simulating re
 
 - `documentazione.pdf` — Full report (in Italian) with schema, logic, and analysis
 - `schema_logico.png` — Logical schema diagram (optional if exported)
-- SQL schema files (coming soon...)
 
 ---
 
